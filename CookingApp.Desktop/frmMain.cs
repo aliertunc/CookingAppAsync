@@ -30,19 +30,7 @@ namespace CookingApp.Desktop
             timer.Start();
         }
 
-        /*
-            Omlet Tarifi;
-
-            1) Yumurtaları Kır
-            2) Yumurtaları Çırp
-            3) Tuz Ekle
-            4) Ocağı Aç
-            5) Tavayı Isıt
-            6) Yağı Dök
-            7) Yumurtayı Ekle
-            8) Pişir
-            9) Servis Et
-         */
+        
 
 
         private void btnStartCookingSync_Click(object sender, EventArgs e)
