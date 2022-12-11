@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CookingApp.Desktop/1.0.0": {
+        "runtime": {
+          "CookingApp.Desktop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CookingApp.Desktop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
